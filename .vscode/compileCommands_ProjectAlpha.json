@@ -1,0 +1,106 @@
+[
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlpha.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlpha.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlpha.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlphaCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlphaCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlphaGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlphaGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlphaProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\ProjectAlphaProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game\\ProjectAlpha\\Source\\ProjectAlpha\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game\\ProjectAlpha\\.vscode\\compileCommands_ProjectAlpha\\ProjectAlpha.255.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
