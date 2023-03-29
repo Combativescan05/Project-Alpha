@@ -48,7 +48,9 @@ public:
 	/** Make the weapon Fire a Projectile */
 	UFUNCTION(BlueprintCallable, Category="Weapon")
 	void Fire();
-
+	
+	UFUNCTION(BlueprintImplementableEvent)
+	void Test();
 protected:
 	/** Ends gameplay for this component. */
 	UFUNCTION()
